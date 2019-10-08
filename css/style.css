@@ -1013,7 +1013,7 @@ a.pa_italic:focus {
 .agileits-img .wthree-pcatn {
     background-color: rgba(247, 136, 0, 0.6);
     bottom: 0;
-    height: 35%;
+    height: 40%;
     left: 0;
     padding: 1em;
     position: absolute;
@@ -1032,7 +1032,7 @@ a.pa_italic:focus {
     transform: translateY(150%);
 }
 .agileits-img .wthree-pcatn h4 {
-    font-size: 1.5em;
+    font-size: 1em;
     color: #fff;
     text-align: center;
     font-weight: 200;
